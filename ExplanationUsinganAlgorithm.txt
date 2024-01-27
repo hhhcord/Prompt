@@ -1,0 +1,22 @@
+以下の文章読んだ読者は，何をするべきか．
+手順を箇条書きで説明してください．
+高校生にもわかる表現で詳細に書くこと．
+日本語でお願いします．
+説明の際，論理的な接続詞（論理演算子）を用いること．
+
+上記の手順をアルゴリズムで表現してください．
+以下のコードを書き換えることで表現してください．
+日本語でお願いします．
+論理演算子を適切に用いること．
+
+\begin{figure}[htbp]
+  \begin{algorithm}[H]
+  \caption{}
+  \label{alg}
+  \begin{algorithmic}[1] %行番号をつけないときは[1]は不要
+  \REQUIRE 
+  \ENSURE 
+  \STATE
+  \end{algorithmic}
+  \end{algorithm}
+\end{figure}
